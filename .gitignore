@@ -28,9 +28,6 @@ migrate_working_dir/
 .flutter-plugins
 .flutter-plugins-dependencies
 .packages
-.gitignore
-.metadata
-analysis_options.yaml
 .pub-cache/
 .pub/
 /build/
