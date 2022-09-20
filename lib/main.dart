@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:movieapp/core/inject/inject.dart';
-import 'package:movieapp/features/note/presentation/ui/pages/home_page.dart';
-import 'package:movieapp/features/note/presentation/ui/pages/movie_details_page.dart';
+import 'package:movieapp/features/movie/presentation/ui/pages/home_page.dart';
+import 'package:movieapp/features/movie/presentation/ui/pages/movie_details_page.dart';
 
 main() {
   Inject.init();
